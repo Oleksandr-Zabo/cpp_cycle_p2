@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
-//dev
+
 int main()
 {
 	int int_currency=0;
 	float your_money, eur_grn = 42.72, dol_eur = 0.9282;
 	string currency;
 
-	cout << "Currency converter" << endl;
+	cout << "Currency converter\n" << endl;
 	for (int i = 0;; i++)
 	{
 		cout << "Write your currency "
