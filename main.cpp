@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int int_currency=0;
-	float your_money, eur_grn = 42.72, dol_eur = 0.9282;
+	double your_money, eur_grn = 42.72, dol_eur = 0.9282;
 	string currency;
 
 	cout << "Currency converter\n" << endl;
